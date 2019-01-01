@@ -1,0 +1,31 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">22sp</dimen>
+    <dimen name="detail_body_text_size">18sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">4dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="tool_bar_activity_article_list">70dp</dimen>
+    <dimen name="top_padding_articles_recycler_View">70dp</dimen>
+    <dimen name="article_details_image_button_width">56dp</dimen>
+    <dimen name="articles_list_recycler_padding_bottom">28dp</dimen>
+    <dimen name="tool_bar_container_elevation">8dp</dimen>
+    <dimen name="fragment_article_details_app_bar_height">300dp</dimen>
+    <dimen name="fragment_article_details_app_bar_elevation">4dp</dimen>
+    <dimen name="fragment_article_details_collapsing_tool_bar_min_height">60dp</dimen>
+    <dimen name="expanded_title_margin_bottom">40dp</dimen>
+    <dimen name="expanded_title_margin_end">70dp</dimen>
+    <dimen name="expanded_title_margin_start">16dp</dimen>
+    <dimen name="fragment_article_details_tool_bar_height">50dp</dimen>
+    <dimen name="scroll_view_margin">16dp</dimen>
+    <dimen name="floating_action_button_width">56dp</dimen>
+    <dimen name="floating_action_button_height">56dp</dimen>
+    <dimen name="article_subtitle_margin_bottom">10dp</dimen>
+    <dimen name="article_subtitle_margin_end">10dp</dimen>
+    <dimen name="article_subtitle_margin_start">10dp</dimen>
+    <dimen name="item_article_card_elevation">4dp</dimen>
+    <dimen name="article_title_margin">10dp</dimen>
+
+</resources>
